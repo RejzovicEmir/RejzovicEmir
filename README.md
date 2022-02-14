@@ -1,5 +1,5 @@
  ### Hi there, I'm Rejzovic Emir.
-- 👀 I'm interested in frontend web development.
+- 👀 I'm interested in fullstack web development.
 - 🌱 I’m currently learning restful API's.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Fully implement my business ideas.
